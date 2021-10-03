@@ -167,3 +167,27 @@ section {
   padding: 50px 20px;
   background-color: #eaf3e4;
   } 
+.Explore_menu #item {
+  background: #ffffff;
+  border-bottom-right-radius: 50px;
+  width: 350px;
+  margin: 50 30px 40px;
+  }  
+.Explore_menu #burger {
+  padding:10px 0px 0px 20px;
+  }    
+.Explore_menu .image {
+  margin: 0px 0px 0px -90px;
+  position: absolute;
+  }
+.Explore_menu .image img{
+  width:200px;
+  height:150px;
+  }
+.Explore_menu .describe{
+  text-align: center;
+  font-size: 19px;
+  line-height: 30px;  
+  font-weight: normal;
+  margin: 0px 0px 0px 70px;
+  }
