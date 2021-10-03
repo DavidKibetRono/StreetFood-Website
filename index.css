@@ -254,3 +254,19 @@ section {
 .Contact_us > h1 > span{
   color:#6CB840;
     }
+.Contact_us > input[type=text]{
+  border-radius: 20px;
+  height: 38px;
+  padding-left: 10px;
+  width:400px;
+  border:none;    
+  }
+.Contact_us > button{
+  background-color:  #6CB840;
+  color:#ffffff;
+  border-radius: 20px;
+  padding:10px 40px;
+  border:none;
+  font-size: 20px;
+    }
+    /*end of content*/
