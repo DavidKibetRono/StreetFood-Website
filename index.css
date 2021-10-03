@@ -270,3 +270,12 @@ section {
   font-size: 20px;
     }
     /*end of content*/
+
+    /*start of footer*/
+.footer{
+  background-color: #C9ECB5;
+  height:300px;
+  width:82%;
+  margin-left:140px;
+  margin-top:80px;
+}
