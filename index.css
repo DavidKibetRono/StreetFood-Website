@@ -240,3 +240,17 @@ section {
 .Hot-deals > p{
   margin-top:10px;
     }
+.Contact_us{
+  background-color:FFD77C;
+  height:500px;
+  width:82%;
+  margin-left: 150px;
+  text-align:center;
+  margin-top: -20px;
+    }
+.Contact_us > h1{
+  padding-top: 40px;
+  }
+.Contact_us > h1 > span{
+  color:#6CB840;
+    }
