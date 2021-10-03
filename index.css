@@ -121,3 +121,27 @@ nav > ul >li >a{
     }   
 
 /* end of header*/
+
+
+.Eat_together{
+  position:relative;
+  } 
+.Eat_together > h2::first-letter{
+  text-transform:uppercase;    
+  }
+.Eat_together > h2{
+  position:absolute;
+  float:right;
+  right:150px;
+  top:280px;
+  color:#FAA916;
+  margin-right: 390px;
+ }
+.Eat_together > p{
+  position:absolute;
+  float:right;
+  right:90px;
+  top:350px;
+  margin-right: 320px;
+  text-align: center;    
+  }
