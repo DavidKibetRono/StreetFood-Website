@@ -259,7 +259,8 @@ section {
   height: 38px;
   padding-left: 10px;
   width:400px;
-  border:none;    
+  border:none;  
+  margin-left:120px;  
   }
 .Contact_us > button{
   background-color:  #6CB840;
