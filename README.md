@@ -9,7 +9,6 @@
 
 + [Description](#description)
 
-+ [Site Design](#design)
 
 + [Installation Requirement](#installation)
 
@@ -30,9 +29,6 @@
 
 * A footer section that describes open hours of the restraurant as well as the location of the restraurant.
 
-## Design
-
-![street food](//StreetFoodWebsite/StreetFood.png)
 
 ## Installation
 
