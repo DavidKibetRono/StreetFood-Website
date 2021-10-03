@@ -122,13 +122,13 @@ nav > ul >li >a{
 
 /* end of header*/
 
-
+/*start of content*/
 .Eat_together{
   position:relative;
-  } 
+} 
 .Eat_together > h2::first-letter{
   text-transform:uppercase;    
-  }
+}
 .Eat_together > h2{
   position:absolute;
   float:right;
@@ -136,7 +136,7 @@ nav > ul >li >a{
   top:280px;
   color:#FAA916;
   margin-right: 390px;
- }
+  }
 .Eat_together > p{
   position:absolute;
   float:right;
@@ -145,3 +145,25 @@ nav > ul >li >a{
   margin-right: 320px;
   text-align: center;    
   }
+.Explore_menu{
+  padding: 120px 20px;
+  background-color: #eaf3e4;
+  margin: 50px;
+  width:80%;
+  margin-left: 150px;
+  height: 450px;
+  }
+.Explore_menu>h1{
+  text-align: center;
+  margin: -90px 0px -70px 0px;
+  }
+.Explore_menu>h1>span{
+color:#649549;
+  }
+section {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 50px 20px;
+  background-color: #eaf3e4;
+  } 
