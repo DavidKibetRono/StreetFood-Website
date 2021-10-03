@@ -1,0 +1,64 @@
+nav > ul{
+  display:flex;
+  text-transform:capitalize;
+}
+nav > ul > li{
+  list-style-type:none;
+  margin-left: 100px;
+  font-weight: bold;
+}
+nav > ul >li >a{
+  text-decoration: none;
+  color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header > div> h1{
+  margin-left:140px;
+    color:#C9ECB5;
+}
+.header > div> h1 {
+    color:#32CD32;
+    }
+.header > div> h1 > strong{
+  color:#FFD77C;
+}
+
+.header > div> h2,p{
+  margin-top:-15px;
+  margin-left:140px;
+  line-height:30px;
+  font-size: 20px;
+
+}
+.header > div> button{
+  margin-left:190px;
+  border:none;
+  border-radius:20px;
+  padding:15px 25px;
+  background-color:#6CBB40;
+  color:#ffffff;
+}
+
+
+
+
+
+
+
+
+
