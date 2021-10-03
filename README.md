@@ -36,7 +36,7 @@
  
  ## site
 
-Inorder to view the site you have to click [StreetFood Website]().
+Inorder to view the site you have to click [StreetFood Website](https://davidkibetrono.github.io/StreetFood-Website/).
 
 
 ### Technology-used
