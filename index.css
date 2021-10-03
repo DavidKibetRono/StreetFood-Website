@@ -7,67 +7,67 @@
   position:relative;
   margin-left: 50px;
   margin-top: 20px;
-      }
+    }
 nav > ul{
   display:flex;
   text-transform:capitalize;
-}
+    }   
 nav > ul > li{
   list-style-type:none;
   margin-left: 100px;
   font-weight: bold;
-}
-nav > ul >li >a{
+    }
+nav > ul > li >a{
   text-decoration: none;
   color:black;
-}
-.eclipse-content >nav >ul >li{
+    } 
+.eclipse-content > nav > ul > li{
   margin: 100px 0px 0px 50px ;
   font-weight: bold;
-}
-.eclipse-content >nav >ul >li>a{
+    }
+.eclipse-content > nav > ul >li>a{
   text-decoration: none;
   color:black;
-}
-.eclipse-content >nav >ul >li>img{
+    }
+.eclipse-content > nav > ul > li > img{
   margin-top: -80px;
   width: 140px;
-}
-.eclipse-content >nav >ul >li>h1{
+    }
+.eclipse-content > nav > ul > li > h1{
   font-weight: bold;
-}
-.header > div> h1{
+    }
+.header > div > h1{
   margin-left:140px;
     color:#C9ECB5;
-}
-.header > div> h1 {
+    }
+.header > div > h1 {
     color:#32CD32;
     }
-.header > div> h1 > strong{
+.header > div > h1 > strong{
   color:#FFD77C;
-}
+    }
 
-.header > div> h2,p{
+.header > div > h2,p{
   margin-top:-15px;
   margin-left:140px;
   line-height:30px;
   font-size: 20px;
 
-}
-.header > div> button{
+    }
+.header > div > button{
   margin-left:190px;
   border:none;
   border-radius:20px;
   padding:15px 25px;
   background-color:#6CBB40;
   color:#ffffff;
-}
+    }  
 .header #image{
   height: 200px;
   width: 200px;
   margin:-170px 0px 0px 1258px;
   overflow:none;
-}
+    }
 .eclipse-content{
   background-color: #649549;
   border-bottom-left-radius: 900%;
@@ -78,7 +78,7 @@ nav > ul >li >a{
   right:0;
   top:0;
   overflow: hidden;
-      } 
+    } 
   
 .eclipse_images {
   margin: -50px 20px 0px 0px;
@@ -125,10 +125,10 @@ nav > ul >li >a{
 /*start of content*/
 .Eat_together{
   position:relative;
-} 
+    } 
 .Eat_together > h2::first-letter{
   text-transform:uppercase;    
-}
+    }
 .Eat_together > h2{
   position:absolute;
   float:right;
@@ -136,7 +136,7 @@ nav > ul >li >a{
   top:280px;
   color:#FAA916;
   margin-right: 390px;
-  }
+   }
 .Eat_together > p{
   position:absolute;
   float:right;
@@ -153,11 +153,11 @@ nav > ul >li >a{
   margin-left: 150px;
   height: 450px;
   }
-.Explore_menu>h1{
+.Explore_menu > h1{
   text-align: center;
   margin: -90px 0px -70px 0px;
   }
-.Explore_menu>h1>span{
+.Explore_menu > h1 > span{
 color:#649549;
   }
 section {
@@ -199,7 +199,7 @@ section {
   position: relative;
   margin-left:150px ;
   margin-top:-50px;
-    } 
+  } 
 .Hot-deals #img1{
   position:absolute;
   float:left;
@@ -213,33 +213,33 @@ section {
   left:65px;
   top:189px;
   width:650px  
-    }
+  }
 .Hot-deals > h1{    
   margin-left:-350px;
   padding-top: 60px;
-    } 
+  } 
 .Hot-deals > h1 > strong,span{
   color:#6CB840;;
-    } 
+  } 
 .Hot-deals > h2>span{
   position:absolute;
   top:230px;
   right:300px;
   font-size: 50px;  
-    }
+  }
 .Hot-deals >h3{
   margin-top:200px;
   margin-right:90px;
-    }
+  }
 .Hot-deals >h4{
   font-size: 18px;
   margin-top:30px;
   margin-right:70px;
   margin-top: -10px;    
-    }
+  }
 .Hot-deals > p{
   margin-top:10px;
-    }
+  }
 .Contact_us{
   background-color:FFD77C;
   height:500px;
@@ -247,13 +247,13 @@ section {
   margin-left: 150px;
   text-align:center;
   margin-top: -20px;
-    }
+  }
 .Contact_us > h1{
   padding-top: 40px;
   }
 .Contact_us > h1 > span{
   color:#6CB840;
-    }
+  }
 .Contact_us > input[type=text]{
   border-radius: 20px;
   height: 38px;
@@ -268,7 +268,7 @@ section {
   padding:10px 40px;
   border:none;
   font-size: 20px;
-    }
+  }
     /*end of content*/
 
     /*start of footer*/
@@ -278,4 +278,48 @@ section {
   width:82%;
   margin-left:140px;
   margin-top:80px;
-}
+  }
+#open-days{
+  float:left;
+  border-right:2px dashed#6CB840;    
+  padding:2px 20px 0px 20px;
+
+  }
+#left-center-footer{
+  margin-left:200px;
+  padding-top:80px;
+  }
+#follow{
+  margin-left:800px;
+  margin-top:-100px;
+  }
+.footer #follow > h1{
+  position: relative;
+  right:-200px;
+  top:20px;
+
+  }
+.footer #follow > p{
+  position:relative;
+  right:-10px;
+  }
+ .footer #follow #icon{
+  position:relative;
+  right:-650px;
+  top:-30px;
+  font-size: 30px;
+  }
+#footer-button{
+  float: right;
+  margin-top: -80px;
+  padding-right: 20px;
+   
+  }
+#footer-button > button{
+  background-color: #6CB840;
+  color:#ffffff;
+  padding: 10px 35px;
+  border: none;
+  font-size:18px;
+  }
+/*end of footer*/
