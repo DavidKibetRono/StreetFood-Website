@@ -191,3 +191,27 @@ section {
   font-weight: normal;
   margin: 0px 0px 0px 70px;
   }
+.Hot-deals{
+  width:82%;
+  background-color: #C9ECB5;
+  height:650px;
+  text-align:center;
+  position: relative;
+  margin-left:150px ;
+  margin-top:-50px;
+    } 
+.Hot-deals #img1{
+  position:absolute;
+  float:left;
+  top: -70px;
+  left:10px;
+  width:450px
+  
+  }
+.Hot-deals #img2{
+  position:absolute;
+  left:65px;
+  top:189px;
+  width:650px  
+    }
+    
